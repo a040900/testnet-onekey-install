@@ -76,8 +76,7 @@ update_ironfish(){
 }
 
 echo && echo -e " ${Red_font_prefix}IronFish 一键安装脚本${Font_color_suffix} by \033[1;35mDaniel\033[0m
-此脚本完全免费开源，由推特用户 ${Green_font_prefix}Daniel_eth2开发${Font_color_suffix}，
-欢迎关注，如有收费请勿上当受骗。
+
  ———————————————————————
  ${Green_font_prefix} 1.安装 docker ${Font_color_suffix}
  ${Green_font_prefix} 2.安装 Ironfish ${Font_color_suffix}
